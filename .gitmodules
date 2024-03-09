@@ -1,0 +1,9 @@
+[submodule "third/libwebsockets"]
+	path = third/libwebsockets
+	url = https://libwebsockets.org/repo/libwebsockets
+[submodule "third/websocketpp"]
+	path = third/websocketpp
+	url = https://github.com/zaphoyd/websocketpp
+[submodule "third/asio"]
+	path = third/asio
+	url = https://github.com/chriskohlhoff/asio
